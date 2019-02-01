@@ -1,0 +1,682 @@
+1,R131187,Geoscience,CE2104,E1S1,CE
+2,R131278,Surveying-I,CE2101,E1S1,CE
+3,R131316,Surveying-I,CE2101,E1S1,CE
+4,R131913,Geoscience,CE2104,E1S1,CE
+5,R131913,Engineering Mathematics-I,MA1101,E1S1,CE
+6,R131913,Surveying-I,CE2101,E1S1,CE
+7,R131933,Engineering Mathematics-I,MA1101,E1S1,CE
+8,R131938,Engineering Mathematics-I,MA1101,E1S1,CE
+9,R131944,Engineering Drawing,CE1101,E1S1,CE
+10,R131944,Engineering Mechanics,ME1101,E1S1,CE
+11,R131944,Geoscience,CE2104,E1S1,CE
+12,R131944,Engineering Mathematics-I,MA1101,E1S1,CE
+13,R131944,Surveying-I,CE2101,E1S1,CE
+14,R131944,Surveying-I Lab,CE2701,E1S1,CE
+15,R131972,Geoscience,CE2104,E1S1,CE
+16,R121230,Transform Calculus,MA2103,E2S1,CE
+17,R131024,Structural Analysis - I,CE2203,E2S1,CE
+18,R131024,Transform Calculus,MA2103,E2S1,CE
+19,R131044,Transform Calculus,MA2103,E2S1,CE
+20,R131099,Hydraulics Engineering,CE3103,E2S1,CE
+21,R131159,Hydraulics Engineering,CE3103,E2S1,CE
+22,R131159,Transform Calculus,MA2103,E2S1,CE
+23,R131187,Hydraulics Engineering,CE3103,E2S1,CE
+24,R131187,Mechanics of solids - II,CE2105,E2S1,CE
+25,R131187,Structural Analysis - I,CE2203,E2S1,CE
+26,R131187,Transform Calculus,MA2103,E2S1,CE
+27,R131187,Water Resources Engineering - I,CE2202,E2S1,CE
+28,R131188,Hydraulics Engineering,CE3103,E2S1,CE
+29,R131188,Transform Calculus,MA2103,E2S1,CE
+30,R131214,Transform Calculus,MA2103,E2S1,CE
+31,R131283,Transform Calculus,MA2103,E2S1,CE
+32,R131316,Transform Calculus,MA2103,E2S1,CE
+33,R131341,Transform Calculus,MA2103,E2S1,CE
+34,R131345,Hydraulics Engineering,CE3103,E2S1,CE
+35,R131429,Transform Calculus,MA2103,E2S1,CE
+36,R131447,Hydraulics Engineering,CE3103,E2S1,CE
+37,R131447,Transform Calculus,MA2103,E2S1,CE
+38,R131457,Hydraulics Engineering,CE3103,E2S1,CE
+39,R131577,Transform Calculus,MA2103,E2S1,CE
+40,R131593,Transform Calculus,MA2103,E2S1,CE
+41,R131649,Transform Calculus,MA2103,E2S1,CE
+42,R131698,Hydraulics Engineering,CE3103,E2S1,CE
+43,R131745,Hydraulics Engineering,CE3103,E2S1,CE
+44,R131745,Transform Calculus,MA2103,E2S1,CE
+45,R131889,Transform Calculus,MA2103,E2S1,CE
+46,R131898,Transform Calculus,MA2103,E2S1,CE
+47,R131913,Hydraulics Engineering,CE3103,E2S1,CE
+48,R131917,Transform Calculus,MA2103,E2S1,CE
+49,R131918,Transform Calculus,MA2103,E2S1,CE
+50,R131927,Hydraulics Engineering,CE3103,E2S1,CE
+51,R131927,Transform Calculus,MA2103,E2S1,CE
+52,R131932,Hydraulics Engineering,CE3103,E2S1,CE
+53,R131933,Hydraulics Engineering,CE3103,E2S1,CE
+54,R131938,Hydraulics Engineering,CE3103,E2S1,CE
+55,R131938,Mechanics of solids - II,CE2105,E2S1,CE
+56,R131938,Structural Analysis - I,CE2203,E2S1,CE
+57,R131938,Transform Calculus,MA2103,E2S1,CE
+58,R131099,Foundation Engineering,CE3509,E3S1,CE
+59,R131187,Estimation & Costing,CE3501,E3S1,CE
+60,R131187,Foundation Engineering,CE3509,E3S1,CE
+61,R131278,Foundation Engineering,CE3509,E3S1,CE
+62,R131577,Foundation Engineering,CE3509,E3S1,CE
+63,R131649,Computer Aided Building Drawing Lab,CE3901,E3S1,CE
+64,B131951,Discrete Mathematics,MA2101,E1S1,CS
+65,B131951,Introduction to Computer Science-I,CS1102,E1S1,CS
+66,B131951,Engineering Mathematics,MA1101,E1S1,CS
+67,B131951,Network Analysis,EC2102,E1S1,CS
+68,R131005,Discrete Mathematics,MA2101,E1S1,CS
+69,R131057,Network Analysis,EC2102,E1S1,CS
+70,R131063,Introduction to Computer Science-I,CS1102,E1S1,CS
+71,R131074,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+72,R131074,Engineering Mathematics,MA1101,E1S1,CS
+73,R131075,Engineering Mathematics,MA1101,E1S1,CS
+74,R131172,Engineering Mathematics,MA1101,E1S1,CS
+75,R131197,Engineering Mathematics,MA1101,E1S1,CS
+76,R131201,Engineering Mathematics,MA1101,E1S1,CS
+77,R131203,Engineering Mathematics,MA1101,E1S1,CS
+78,R131216,Discrete Mathematics,MA2101,E1S1,CS
+79,R131216,Introduction to Computer Science-I,CS1102,E1S1,CS
+80,R131241,Discrete Mathematics,MA2101,E1S1,CS
+81,R131241,Introduction to Computer Science-I,CS1102,E1S1,CS
+82,R131241,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+83,R131241,Engineering Mathematics,MA1101,E1S1,CS
+84,R131252,Introduction to Computer Science-I,CS1102,E1S1,CS
+85,R131252,Network Analysis,EC2102,E1S1,CS
+86,R131259,Discrete Mathematics,MA2101,E1S1,CS
+87,R131259,Introduction to Computer Science-I,CS1102,E1S1,CS
+88,R131259,Engineering Mathematics,MA1101,E1S1,CS
+89,R131288,Engineering Mathematics,MA1101,E1S1,CS
+90,R131302,Discrete Mathematics,MA2101,E1S1,CS
+91,R131302,Introduction to Computer Science-I,CS1102,E1S1,CS
+92,R131302,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+93,R131302,Engineering Mathematics,MA1101,E1S1,CS
+94,R131302,Network Analysis,EC2102,E1S1,CS
+95,R131311,Introduction to Computer Science-I,CS1102,E1S1,CS
+96,R131311,Engineering Mathematics,MA1101,E1S1,CS
+97,R131315,Discrete Mathematics,MA2101,E1S1,CS
+98,R131315,Introduction to Computer Science-I,CS1102,E1S1,CS
+99,R131315,Engineering Mathematics,MA1101,E1S1,CS
+100,R131315,Network Analysis,EC2102,E1S1,CS
+101,R131355,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+102,R131355,Network Analysis,EC2102,E1S1,CS
+103,R131364,Discrete Mathematics,MA2101,E1S1,CS
+104,R131391,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+105,R131391,Engineering Mathematics,MA1101,E1S1,CS
+106,R131423,Discrete Mathematics,MA2101,E1S1,CS
+107,R131423,Engineering Mathematics,MA1101,E1S1,CS
+108,R131465,Discrete Mathematics,MA2101,E1S1,CS
+109,R131465,Introduction to Computer Science-I,CS1102,E1S1,CS
+110,R131465,Engineering Mathematics,MA1101,E1S1,CS
+111,R131508,Introduction to Computer Science-I,CS1102,E1S1,CS
+112,R131515,Discrete Mathematics,MA2101,E1S1,CS
+113,R131515,Introduction to Computer Science-I,CS1102,E1S1,CS
+114,R131515,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+115,R131515,IT Workshop,CS1103,E1S1,CS
+116,R131515,IT Workshop Lab,CS1703,E1S1,CS
+117,R131515,Engineering Mathematics,MA1101,E1S1,CS
+118,R131515,Network Analysis,EC2102,E1S1,CS
+119,R131551,Introduction to Computer Science-I,CS1102,E1S1,CS
+120,R131554,Introduction to Computer Science-I,CS1102,E1S1,CS
+121,R131554,Engineering Mathematics,MA1101,E1S1,CS
+122,R131560,Discrete Mathematics,MA2101,E1S1,CS
+123,R131560,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+124,R131560,IT Workshop,CS1103,E1S1,CS
+125,R131560,IT Workshop Lab,CS1703,E1S1,CS
+126,R131560,Engineering Mathematics,MA1101,E1S1,CS
+127,R131560,Network Analysis,EC2102,E1S1,CS
+128,R131621,Discrete Mathematics,MA2101,E1S1,CS
+129,R131621,Introduction to Computer Science-I,CS1102,E1S1,CS
+130,R131621,Engineering Mathematics,MA1101,E1S1,CS
+131,R131641,Discrete Mathematics,MA2101,E1S1,CS
+132,R131641,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+133,R131641,Engineering Mathematics,MA1101,E1S1,CS
+134,R131653,Discrete Mathematics,MA2101,E1S1,CS
+135,R131655,Discrete Mathematics,MA2101,E1S1,CS
+136,R131655,Introduction to Computer Science-I,CS1102,E1S1,CS
+137,R131666,Discrete Mathematics,MA2101,E1S1,CS
+138,R131672,Discrete Mathematics,MA2101,E1S1,CS
+139,R131701,Engineering Mathematics,MA1101,E1S1,CS
+140,R131713,Discrete Mathematics,MA2101,E1S1,CS
+141,R131713,Introduction to Computer Science-I,CS1102,E1S1,CS
+142,R131713,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+143,R131713,Engineering Mathematics,MA1101,E1S1,CS
+144,R131713,Network Analysis,EC2102,E1S1,CS
+145,R131788,Engineering Mathematics,MA1101,E1S1,CS
+146,R131794,Discrete Mathematics,MA2101,E1S1,CS
+147,R131799,Discrete Mathematics,MA2101,E1S1,CS
+148,R131799,Introduction to Computer Science-I,CS1102,E1S1,CS
+149,R131799,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+150,R131799,IT Workshop,CS1103,E1S1,CS
+151,R131799,Engineering Mathematics,MA1101,E1S1,CS
+152,R131799,Network Analysis,EC2102,E1S1,CS
+153,R131822,Engineering Mathematics,MA1101,E1S1,CS
+154,R131862,Discrete Mathematics,MA2101,E1S1,CS
+155,R131862,Introduction to Computer Science-I,CS1102,E1S1,CS
+156,R131903,Network Analysis,EC2102,E1S1,CS
+157,R131907,Network Analysis,EC2102,E1S1,CS
+158,R131930,Engineering Mathematics,MA1101,E1S1,CS
+159,R131949,Discrete Mathematics,MA2101,E1S1,CS
+160,R131952,Introduction to Computer Science-I,CS1102,E1S1,CS
+161,R131985,Engineering Mathematics,MA1101,E1S1,CS
+162,R131990,Introduction to Computer Science-I Lab,CS1702,E1S1,CS
+163,R131990,Engineering Mathematics,MA1101,E1S1,CS
+164,R131990,Network Analysis,EC2102,E1S1,CS
+165,B131951,Database Management Systems,CS1301,E2S1,CS
+166,B131951,Database Management Systems Lab,CS1706,E2S1,CS
+167,B131951,Design and Analysis of Algorithms,CS2104,E2S1,CS
+168,B131951,Object Oriented Programming through Java,CS2103,E2S1,CS
+169,B131951,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+170,B131951,Switching Circuits and Logic Design,CS2201,E2S1,CS
+171,B131951,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+172,R121665,Database Management Systems,CS1301,E2S1,CS
+173,R121665,Design and Analysis of Algorithms,CS2104,E2S1,CS
+174,R131005,Database Management Systems,CS1301,E2S1,CS
+175,R131027,Database Management Systems,CS1301,E2S1,CS
+176,R131027,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+177,R131028,Database Management Systems,CS1301,E2S1,CS
+178,R131028,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+179,R131033,Database Management Systems,CS1301,E2S1,CS
+180,R131033,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+181,R131035,Database Management Systems,CS1301,E2S1,CS
+182,R131035,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+183,R131043,Database Management Systems,CS1301,E2S1,CS
+184,R131043,Design and Analysis of Algorithms,CS2104,E2S1,CS
+185,R131043,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+186,R131048,Design and Analysis of Algorithms,CS2104,E2S1,CS
+187,R131078,Object Oriented Programming through Java,CS2103,E2S1,CS
+188,R131078,Switching Circuits and Logic Design,CS2201,E2S1,CS
+189,R131126,Switching Circuits and Logic Design,CS2201,E2S1,CS
+190,R131216,Database Management Systems,CS1301,E2S1,CS
+191,R131216,Database Management Systems Lab,CS1706,E2S1,CS
+192,R131216,Design and Analysis of Algorithms,CS2104,E2S1,CS
+193,R131216,Switching Circuits and Logic Design,CS2201,E2S1,CS
+194,R131241,Database Management Systems Lab,CS1706,E2S1,CS
+195,R131241,Object Oriented Programming through Java,CS2103,E2S1,CS
+196,R131241,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+197,R131241,Switching Circuits and Logic Design,CS2201,E2S1,CS
+198,R131241,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+199,R131259,Database Management Systems,CS1301,E2S1,CS
+200,R131259,Switching Circuits and Logic Design,CS2201,E2S1,CS
+201,R131302,Database Management Systems,CS1301,E2S1,CS
+202,R131302,Database Management Systems Lab,CS1706,E2S1,CS
+203,R131302,Design and Analysis of Algorithms,CS2104,E2S1,CS
+204,R131302,Object Oriented Programming through Java,CS2103,E2S1,CS
+205,R131302,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+206,R131302,Switching Circuits and Logic Design,CS2201,E2S1,CS
+207,R131302,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+208,R131311,Database Management Systems,CS1301,E2S1,CS
+209,R131311,Database Management Systems Lab,CS1706,E2S1,CS
+210,R131311,Design and Analysis of Algorithms,CS2104,E2S1,CS
+211,R131311,Object Oriented Programming through Java,CS2103,E2S1,CS
+212,R131311,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+213,R131311,Switching Circuits and Logic Design,CS2201,E2S1,CS
+214,R131311,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+215,R131319,Database Management Systems,CS1301,E2S1,CS
+216,R131355,Database Management Systems,CS1301,E2S1,CS
+217,R131355,Database Management Systems Lab,CS1706,E2S1,CS
+218,R131355,Design and Analysis of Algorithms,CS2104,E2S1,CS
+219,R131355,Object Oriented Programming through Java,CS2103,E2S1,CS
+220,R131355,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+221,R131355,Switching Circuits and Logic Design,CS2201,E2S1,CS
+222,R131355,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+223,R131391,Database Management Systems,CS1301,E2S1,CS
+224,R131391,Design and Analysis of Algorithms,CS2104,E2S1,CS
+225,R131391,Object Oriented Programming through Java,CS2103,E2S1,CS
+226,R131391,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+227,R131391,Switching Circuits and Logic Design,CS2201,E2S1,CS
+228,R131414,Database Management Systems,CS1301,E2S1,CS
+229,R131414,Switching Circuits and Logic Design,CS2201,E2S1,CS
+230,R131423,Database Management Systems,CS1301,E2S1,CS
+231,R131423,Switching Circuits and Logic Design,CS2201,E2S1,CS
+232,R131465,Database Management Systems,CS1301,E2S1,CS
+233,R131465,Design and Analysis of Algorithms,CS2104,E2S1,CS
+234,R131465,Object Oriented Programming through Java,CS2103,E2S1,CS
+235,R131465,Switching Circuits and Logic Design,CS2201,E2S1,CS
+236,R131487,Design and Analysis of Algorithms,CS2104,E2S1,CS
+237,R131487,Object Oriented Programming through Java,CS2103,E2S1,CS
+238,R131487,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+239,R131512,Object Oriented Programming through Java,CS2103,E2S1,CS
+240,R131518,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+241,R131543,Design and Analysis of Algorithms,CS2104,E2S1,CS
+242,R131543,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+243,R131548,Design and Analysis of Algorithms,CS2104,E2S1,CS
+244,R131554,Database Management Systems,CS1301,E2S1,CS
+245,R131554,Object Oriented Programming through Java,CS2103,E2S1,CS
+246,R131554,Switching Circuits and Logic Design,CS2201,E2S1,CS
+247,R131581,Switching Circuits and Logic Design,CS2201,E2S1,CS
+248,R131641,Database Management Systems,CS1301,E2S1,CS
+249,R131641,Switching Circuits and Logic Design,CS2201,E2S1,CS
+250,R131641,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+251,R131672,Database Management Systems,CS1301,E2S1,CS
+252,R131672,Database Management Systems Lab,CS1706,E2S1,CS
+253,R131672,Design and Analysis of Algorithms,CS2104,E2S1,CS
+254,R131672,Object Oriented Programming through Java,CS2103,E2S1,CS
+255,R131672,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+256,R131672,Switching Circuits and Logic Design,CS2201,E2S1,CS
+257,R131672,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+258,R131674,Database Management Systems,CS1301,E2S1,CS
+259,R131674,Object Oriented Programming through Java,CS2103,E2S1,CS
+260,R131674,Switching Circuits and Logic Design,CS2201,E2S1,CS
+261,R131678,Database Management Systems,CS1301,E2S1,CS
+262,R131701,Database Management Systems,CS1301,E2S1,CS
+263,R131709,Database Management Systems Lab,CS1706,E2S1,CS
+264,R131709,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+265,R131722,Database Management Systems,CS1301,E2S1,CS
+266,R131722,Design and Analysis of Algorithms,CS2104,E2S1,CS
+267,R131722,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+268,R131726,Database Management Systems,CS1301,E2S1,CS
+269,R131726,Database Management Systems Lab,CS1706,E2S1,CS
+270,R131726,Design and Analysis of Algorithms,CS2104,E2S1,CS
+271,R131726,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+272,R131749,Database Management Systems,CS1301,E2S1,CS
+273,R131749,Design and Analysis of Algorithms,CS2104,E2S1,CS
+274,R131749,Switching Circuits and Logic Design,CS2201,E2S1,CS
+275,R131750,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+276,R131794,Design and Analysis of Algorithms,CS2104,E2S1,CS
+277,R131794,Switching Circuits and Logic Design,CS2201,E2S1,CS
+278,R131822,Design and Analysis of Algorithms,CS2104,E2S1,CS
+279,R131862,Database Management Systems,CS1301,E2S1,CS
+280,R131862,Design and Analysis of Algorithms,CS2104,E2S1,CS
+281,R131862,Switching Circuits and Logic Design,CS2201,E2S1,CS
+282,R131902,Database Management Systems,CS1301,E2S1,CS
+283,R131902,Database Management Systems Lab,CS1706,E2S1,CS
+284,R131902,Design and Analysis of Algorithms,CS2104,E2S1,CS
+285,R131902,Object Oriented Programming through Java,CS2103,E2S1,CS
+286,R131902,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+287,R131902,Switching Circuits and Logic Design,CS2201,E2S1,CS
+288,R131902,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+289,R131903,Database Management Systems,CS1301,E2S1,CS
+290,R131903,Object Oriented Programming through Java,CS2103,E2S1,CS
+291,R131907,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+292,R131930,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+293,R131949,Database Management Systems,CS1301,E2S1,CS
+294,R131950,Database Management Systems,CS1301,E2S1,CS
+295,R131950,Database Management Systems Lab,CS1706,E2S1,CS
+296,R131950,Object Oriented Programming through Java,CS2103,E2S1,CS
+297,R131950,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+298,R131950,Switching Circuits and Logic Design Lab,CS2801,E2S1,CS
+299,R131952,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+300,R131976,Database Management Systems,CS1301,E2S1,CS
+301,R131976,Design and Analysis of Algorithms,CS2104,E2S1,CS
+302,R131976,Switching Circuits and Logic Design,CS2201,E2S1,CS
+303,R131985,Database Management Systems,CS1301,E2S1,CS
+304,R131985,Object Oriented Programming through Java,CS2103,E2S1,CS
+305,R131989,Design and Analysis of Algorithms,CS2104,E2S1,CS
+306,R131989,Object Oriented Programming through Java,CS2103,E2S1,CS
+307,R131990,Object Oriented Programming through Java,CS2103,E2S1,CS
+308,R131993,Database Management Systems,CS1301,E2S1,CS
+309,R131993,Design and Analysis of Algorithms,CS2104,E2S1,CS
+310,R131993,Object Oriented Programming through Java Lab,CS1707,E2S1,CS
+311,R131993,Switching Circuits and Logic Design,CS2201,E2S1,CS
+312,B131951,Compiler Design,CS3601,E3S1,CS
+313,B131951,Mobile Application Development ,CS3101,E3S1,CS
+314,B131951,Mobile Application Development  Lab,CS3701,E3S1,CS
+315,B131951,Web Technologies Lab,CS3702,E3S1,CS
+316,R131033,Web Technologies ,CS3102,E3S1,CS
+317,R131043,Compiler Design,CS3601,E3S1,CS
+318,R131050,Mobile Application Development  Lab,CS3701,E3S1,CS
+319,R131126,Compiler Design,CS3601,E3S1,CS
+320,R131170,Compiler Design,CS3601,E3S1,CS
+321,R131170,Introduction to Cloud Computing,CS3104,E3S1,CS
+322,R131170,Introduction to Robotics,CS3103,E3S1,CS
+323,R131170,Mobile Application Development ,CS3101,E3S1,CS
+324,R131170,Mobile Application Development  Lab,CS3701,E3S1,CS
+325,R131170,Web Technologies ,CS3102,E3S1,CS
+326,R131170,Web Technologies Lab,CS3702,E3S1,CS
+327,R131241,Compiler Design,CS3601,E3S1,CS
+328,R131241,Mobile Application Development  Lab,CS3701,E3S1,CS
+329,R131355,Compiler Design,CS3601,E3S1,CS
+330,R131355,Introduction to Cloud Computing,CS3104,E3S1,CS
+331,R131355,Mobile Application Development ,CS3101,E3S1,CS
+332,R131355,Mobile Application Development  Lab,CS3701,E3S1,CS
+333,R131355,Web Technologies ,CS3102,E3S1,CS
+334,R131355,Web Technologies Lab,CS3702,E3S1,CS
+335,R131391,Mobile Application Development  Lab,CS3701,E3S1,CS
+336,R131414,Mobile Application Development  Lab,CS3701,E3S1,CS
+337,R131487,Compiler Design,CS3601,E3S1,CS
+338,R131487,Mobile Application Development ,CS3101,E3S1,CS
+339,R131487,Mobile Application Development  Lab,CS3701,E3S1,CS
+340,R131512,Mobile Application Development ,CS3101,E3S1,CS
+341,R131512,Mobile Application Development  Lab,CS3701,E3S1,CS
+342,R131512,Web Technologies ,CS3102,E3S1,CS
+343,R131655,Mobile Application Development ,CS3101,E3S1,CS
+344,R131655,Mobile Application Development  Lab,CS3701,E3S1,CS
+345,R131655,Web Technologies ,CS3102,E3S1,CS
+346,R131672,Web Technologies ,CS3102,E3S1,CS
+347,R131726,Compiler Design,CS3601,E3S1,CS
+348,R131726,Mobile Application Development ,CS3101,E3S1,CS
+349,R131726,Mobile Application Development  Lab,CS3701,E3S1,CS
+350,R131726,Web Technologies ,CS3102,E3S1,CS
+351,R131794,Compiler Design,CS3601,E3S1,CS
+352,R131794,Mobile Application Development  Lab,CS3701,E3S1,CS
+353,R131930,Web Technologies ,CS3102,E3S1,CS
+354,R131976,Mobile Application Development  Lab,CS3701,E3S1,CS
+355,R131976,Web Technologies Lab,CS3702,E3S1,CS
+356,R131985,Compiler Design,CS3601,E3S1,CS
+357,R131993,Mobile Application Development  Lab,CS3701,E3S1,CS
+358,R131993,Web Technologies Lab,CS3702,E3S1,CS
+359,R131038,Engineering Mathematics-I,MA1101,E1S1,EC
+360,R131045,Engineering Mathematics-I,MA1101,E1S1,EC
+361,R131046,Engineering Physics,PH1101,E1S1,EC
+362,R131056,Engineering Mathematics-I,MA1101,E1S1,EC
+363,R131059,Engineering Mathematics-I,MA1101,E1S1,EC
+364,R131174,Electrical Technology,EE1101,E1S1,EC
+365,R131212,Engineering Mathematics-I,MA1101,E1S1,EC
+366,R131226,Engineering Mathematics-I,MA1101,E1S1,EC
+367,R131249,Engineering Mathematics-I,MA1101,E1S1,EC
+368,R131265,Electrical Technology,EE1101,E1S1,EC
+369,R131265,Electronics Devices and Circuits,EC1102,E1S1,EC
+370,R131265,Engineering Physics,PH1101,E1S1,EC
+371,R131265,Electrical Technology Lab,EE1701,E1S1,EC
+372,R131265,Electronics Devices and Circuits Lab,EC1703,E1S1,EC
+373,R131265,Engineering Physics Lab,PH1701,E1S1,EC
+374,R131265,Engineering Mathematics-I,MA1101,E1S1,EC
+375,R131286,Engineering Mathematics-I,MA1101,E1S1,EC
+376,R131306,Electronics Devices and Circuits,EC1102,E1S1,EC
+377,R131306,Engineering Physics,PH1101,E1S1,EC
+378,R131306,Engineering Mathematics-I,MA1101,E1S1,EC
+379,R131314,Engineering Mathematics-I,MA1101,E1S1,EC
+380,R131317,Electronics Devices and Circuits,EC1102,E1S1,EC
+381,R131333,Engineering Mathematics-I,MA1101,E1S1,EC
+382,R131337,Engineering Mathematics-I,MA1101,E1S1,EC
+383,R131349,Electronics Devices and Circuits,EC1102,E1S1,EC
+384,R131349,Engineering Mathematics-I,MA1101,E1S1,EC
+385,R131353,Electronics Devices and Circuits,EC1102,E1S1,EC
+386,R131418,Electronics Devices and Circuits,EC1102,E1S1,EC
+387,R131418,Engineering Mathematics-I,MA1101,E1S1,EC
+388,R131421,Engineering Mathematics-I,MA1101,E1S1,EC
+389,R131452,Engineering Mathematics-I,MA1101,E1S1,EC
+390,R131458,Engineering Mathematics-I,MA1101,E1S1,EC
+391,R131462,Engineering Mathematics-I,MA1101,E1S1,EC
+392,R131468,Engineering Mathematics-I,MA1101,E1S1,EC
+393,R131492,Engineering Mathematics-I,MA1101,E1S1,EC
+394,R131496,Engineering Physics,PH1101,E1S1,EC
+395,R131496,Engineering Mathematics-I,MA1101,E1S1,EC
+396,R131533,Electronics Devices and Circuits,EC1102,E1S1,EC
+397,R131533,Engineering Mathematics-I,MA1101,E1S1,EC
+398,R131544,Engineering Mathematics-I,MA1101,E1S1,EC
+399,R131546,Electronics Devices and Circuits,EC1102,E1S1,EC
+400,R131648,Electrical Technology,EE1101,E1S1,EC
+401,R131648,Engineering Mathematics-I,MA1101,E1S1,EC
+402,R131658,Engineering Mathematics-I,MA1101,E1S1,EC
+403,R131669,Engineering Mathematics-I,MA1101,E1S1,EC
+404,R131670,Engineering Mathematics-I,MA1101,E1S1,EC
+405,R131679,Engineering Mathematics-I,MA1101,E1S1,EC
+406,R131692,Electrical Technology,EE1101,E1S1,EC
+407,R131692,Electronics Devices and Circuits,EC1102,E1S1,EC
+408,R131692,Engineering Physics,PH1101,E1S1,EC
+409,R131692,Electrical Technology Lab,EE1701,E1S1,EC
+410,R131692,Electronics Devices and Circuits Lab,EC1703,E1S1,EC
+411,R131692,Engineering Physics Lab,PH1701,E1S1,EC
+412,R131692,Engineering Mathematics-I,MA1101,E1S1,EC
+413,R131700,Engineering Mathematics-I,MA1101,E1S1,EC
+414,R131774,Engineering Mathematics-I,MA1101,E1S1,EC
+415,R131785,Engineering Mathematics-I,MA1101,E1S1,EC
+416,R131792,Electronics Devices and Circuits,EC1102,E1S1,EC
+417,R131792,Engineering Mathematics-I,MA1101,E1S1,EC
+418,R131800,Engineering Mathematics-I,MA1101,E1S1,EC
+419,R131806,Engineering Mathematics-I,MA1101,E1S1,EC
+420,R131813,Electronics Devices and Circuits,EC1102,E1S1,EC
+421,R131834,Engineering Mathematics-I,MA1101,E1S1,EC
+422,R131838,Engineering Mathematics-I,MA1101,E1S1,EC
+423,R131843,Electrical Technology,EE1101,E1S1,EC
+424,R131843,Electronics Devices and Circuits,EC1102,E1S1,EC
+425,R131843,Engineering Mathematics-I,MA1101,E1S1,EC
+426,R131849,Electronics Devices and Circuits,EC1102,E1S1,EC
+427,R131849,Engineering Mathematics-I,MA1101,E1S1,EC
+428,R131852,Engineering Mathematics-I,MA1101,E1S1,EC
+429,R131853,Engineering Mathematics-I,MA1101,E1S1,EC
+430,R131859,Engineering Mathematics-I,MA1101,E1S1,EC
+431,R131883,Engineering Mathematics-I,MA1101,E1S1,EC
+432,R131905,Electronics Devices and Circuits,EC1102,E1S1,EC
+433,R131906,Engineering Mathematics-I,MA1101,E1S1,EC
+434,R131923,Electrical Technology,EE1101,E1S1,EC
+435,R131923,Electronics Devices and Circuits,EC1102,E1S1,EC
+436,R131923,Engineering Mathematics-I,MA1101,E1S1,EC
+437,R131934,Electronics Devices and Circuits,EC1102,E1S1,EC
+438,R131934,Engineering Mathematics-I,MA1101,E1S1,EC
+439,R131941,Electronics Devices and Circuits,EC1102,E1S1,EC
+440,R131941,Engineering Mathematics-I,MA1101,E1S1,EC
+441,R131038,Probability and Stochastic Processes,MA2204,E2S1,EC
+442,R131038,Signals & Systems,EC2202,E2S1,EC
+443,R131046,Analog Electronic Circuits - II,EC2104,E2S1,EC
+444,R131046,Probability and Stochastic Processes,MA2204,E2S1,EC
+445,R131047,Signals & Systems,EC2202,E2S1,EC
+446,R131056,Analog Electronic Circuits - II,EC2104,E2S1,EC
+447,R131110,Signals & Systems,EC2202,E2S1,EC
+448,R131177,Analog Electronic Circuits - II,EC2104,E2S1,EC
+449,R131177,Object Oriented Programming through Java,EC2105,E2S1,EC
+450,R131177,Probability and Stochastic Processes,MA2204,E2S1,EC
+451,R131222,Analog Electronic Circuits - II,EC2104,E2S1,EC
+452,R131249,Analog Electronic Circuits - II,EC2104,E2S1,EC
+453,R131249,Object Oriented Programming through Java,EC2105,E2S1,EC
+454,R131249,Probability and Stochastic Processes,MA2204,E2S1,EC
+455,R131249,Signals & Systems,EC2202,E2S1,EC
+456,R131249,Switching Circuits and Logic Design,CS2201,E2S1,EC
+457,R131251,Analog Electronic Circuits - II,EC2104,E2S1,EC
+458,R131304,Analog Electronic Circuits - II,EC2104,E2S1,EC
+459,R131304,Analog Electronic Circuits - II Lab,EC2703,E2S1,EC
+460,R131304,Object Oriented Programming through Java,EC2105,E2S1,EC
+461,R131304,Probability and Stochastic Processes,MA2204,E2S1,EC
+462,R131304,Signals & Systems,EC2202,E2S1,EC
+463,R131304,Switching Circuits and Logic Design,CS2201,E2S1,EC
+464,R131304,Switching Circuits and Logic Design Lab,CS2801,E2S1,EC
+465,R131306,Analog Electronic Circuits - II,EC2104,E2S1,EC
+466,R131306,Object Oriented Programming through Java,EC2105,E2S1,EC
+467,R131306,Probability and Stochastic Processes,MA2204,E2S1,EC
+468,R131306,Signals & Systems,EC2202,E2S1,EC
+469,R131314,Analog Electronic Circuits - II,EC2104,E2S1,EC
+470,R131314,Probability and Stochastic Processes,MA2204,E2S1,EC
+471,R131314,Signals & Systems,EC2202,E2S1,EC
+472,R131317,Probability and Stochastic Processes,MA2204,E2S1,EC
+473,R131317,Switching Circuits and Logic Design,CS2201,E2S1,EC
+474,R131317,Switching Circuits and Logic Design Lab,CS2801,E2S1,EC
+475,R131318,Analog Electronic Circuits - II,EC2104,E2S1,EC
+476,R131318,Probability and Stochastic Processes,MA2204,E2S1,EC
+477,R131318,Signals & Systems,EC2202,E2S1,EC
+478,R131318,Switching Circuits and Logic Design,CS2201,E2S1,EC
+479,R131353,Probability and Stochastic Processes,MA2204,E2S1,EC
+480,R131418,Analog Electronic Circuits - II,EC2104,E2S1,EC
+481,R131418,Analog Electronic Circuits - II Lab,EC2703,E2S1,EC
+482,R131418,Object Oriented Programming through Java,EC2105,E2S1,EC
+483,R131418,Probability and Stochastic Processes,MA2204,E2S1,EC
+484,R131418,Signals & Systems,EC2202,E2S1,EC
+485,R131418,Switching Circuits and Logic Design,CS2201,E2S1,EC
+486,R131418,Switching Circuits and Logic Design Lab,CS2801,E2S1,EC
+487,R131461,Analog Electronic Circuits - II,EC2104,E2S1,EC
+488,R131462,Object Oriented Programming through Java,EC2105,E2S1,EC
+489,R131462,Signals & Systems,EC2202,E2S1,EC
+490,R131496,Signals & Systems,EC2202,E2S1,EC
+491,R131531,Analog Electronic Circuits - II,EC2104,E2S1,EC
+492,R131533,Object Oriented Programming through Java,EC2105,E2S1,EC
+493,R131533,Probability and Stochastic Processes,MA2204,E2S1,EC
+494,R131533,Signals & Systems,EC2202,E2S1,EC
+495,R131533,Switching Circuits and Logic Design,CS2201,E2S1,EC
+496,R131546,Analog Electronic Circuits - II,EC2104,E2S1,EC
+497,R131648,Probability and Stochastic Processes,MA2204,E2S1,EC
+498,R131648,Switching Circuits and Logic Design,CS2201,E2S1,EC
+499,R131774,Probability and Stochastic Processes,MA2204,E2S1,EC
+500,R131792,Analog Electronic Circuits - II,EC2104,E2S1,EC
+501,R131792,Probability and Stochastic Processes,MA2204,E2S1,EC
+502,R131792,Switching Circuits and Logic Design,CS2201,E2S1,EC
+503,R131806,Analog Electronic Circuits - II,EC2104,E2S1,EC
+504,R131838,Analog Electronic Circuits - II,EC2104,E2S1,EC
+505,R131838,Probability and Stochastic Processes,MA2204,E2S1,EC
+506,R131838,Signals & Systems,EC2202,E2S1,EC
+507,R131843,Analog Electronic Circuits - II,EC2104,E2S1,EC
+508,R131843,Object Oriented Programming through Java,EC2105,E2S1,EC
+509,R131843,Probability and Stochastic Processes,MA2204,E2S1,EC
+510,R131843,Signals & Systems,EC2202,E2S1,EC
+511,R131843,Switching Circuits and Logic Design,CS2201,E2S1,EC
+512,R131849,Analog Electronic Circuits - II,EC2104,E2S1,EC
+513,R131849,Object Oriented Programming through Java,EC2105,E2S1,EC
+514,R131849,Probability and Stochastic Processes,MA2204,E2S1,EC
+515,R131849,Signals & Systems,EC2202,E2S1,EC
+516,R131849,Switching Circuits and Logic Design,CS2201,E2S1,EC
+517,R131859,Analog Electronic Circuits - II,EC2104,E2S1,EC
+518,R131859,Signals & Systems,EC2202,E2S1,EC
+519,R131883,Analog Electronic Circuits - II,EC2104,E2S1,EC
+520,R131883,Analog Electronic Circuits - II Lab,EC2703,E2S1,EC
+521,R131883,Probability and Stochastic Processes,MA2204,E2S1,EC
+522,R131883,Signals & Systems,EC2202,E2S1,EC
+523,R131883,Switching Circuits and Logic Design Lab,CS2801,E2S1,EC
+524,R131905,Object Oriented Programming through Java,EC2105,E2S1,EC
+525,R131905,Probability and Stochastic Processes,MA2204,E2S1,EC
+526,R131905,Signals & Systems,EC2202,E2S1,EC
+527,R131905,Switching Circuits and Logic Design,CS2201,E2S1,EC
+528,R131906,Analog Electronic Circuits - II,EC2104,E2S1,EC
+529,R131906,Object Oriented Programming through Java,EC2105,E2S1,EC
+530,R131906,Probability and Stochastic Processes,MA2204,E2S1,EC
+531,R131919,Signals & Systems,EC2202,E2S1,EC
+532,R131922,Signals & Systems,EC2202,E2S1,EC
+533,R131923,Analog Electronic Circuits - II,EC2104,E2S1,EC
+534,R131923,Analog Electronic Circuits - II Lab,EC2703,E2S1,EC
+535,R131923,Object Oriented Programming through Java,EC2105,E2S1,EC
+536,R131923,Probability and Stochastic Processes,MA2204,E2S1,EC
+537,R131923,Signals & Systems,EC2202,E2S1,EC
+538,R131923,Switching Circuits and Logic Design,CS2201,E2S1,EC
+539,R131923,Switching Circuits and Logic Design Lab,CS2801,E2S1,EC
+540,R131934,Analog Electronic Circuits - II,EC2104,E2S1,EC
+541,R131934,Object Oriented Programming through Java,EC2105,E2S1,EC
+542,R131934,Probability and Stochastic Processes,MA2204,E2S1,EC
+543,R131934,Signals & Systems,EC2202,E2S1,EC
+544,R131934,Switching Circuits and Logic Design,CS2201,E2S1,EC
+545,R131941,Analog Electronic Circuits - II,EC2104,E2S1,EC
+546,R131941,Object Oriented Programming through Java,EC2105,E2S1,EC
+547,R131941,Probability and Stochastic Processes,MA2204,E2S1,EC
+548,R131941,Signals & Systems,EC2202,E2S1,EC
+549,R131941,Switching Circuits and Logic Design,CS2201,E2S1,EC
+550,R131941,Switching Circuits and Logic Design Lab,CS2801,E2S1,EC
+551,R131038,Digital Communications Lab,EC3702,E3S1,EC
+552,R131038,Linear Control Systems,EC3101,E3S1,EC
+553,R131038,VLSI,EC3103,E3S1,EC
+554,R131046,Digital Communications,EC3102,E3S1,EC
+555,R131046,Digital Communications Lab,EC3702,E3S1,EC
+556,R131046,VLSI,EC3103,E3S1,EC
+557,R131054,Business Organization and Management,BM3103,E3S1,EC
+558,R131054,Digital Communications,EC3102,E3S1,EC
+559,R131054,Digital Communications Lab,EC3702,E3S1,EC
+560,R131054,Linear Control Systems,EC3101,E3S1,EC
+561,R131054,Mini Project - I,EC3700,E3S1,EC
+562,R131054,VLSI,EC3103,E3S1,EC
+563,R131054,VLSI Lab,EC3703,E3S1,EC
+564,R131056,Linear Control Systems,EC3101,E3S1,EC
+565,R131131,Linear Control Systems,EC3101,E3S1,EC
+566,R131133,Linear Control Systems,EC3101,E3S1,EC
+567,R131251,Linear Control Systems,EC3101,E3S1,EC
+568,R131286,Linear Control Systems,EC3101,E3S1,EC
+569,R131306,Digital Communications,EC3102,E3S1,EC
+570,R131306,Linear Control Systems,EC3101,E3S1,EC
+571,R131314,Digital Communications,EC3102,E3S1,EC
+572,R131314,Digital Communications Lab,EC3702,E3S1,EC
+573,R131314,VLSI,EC3103,E3S1,EC
+574,R131317,Business Organization and Management,BM3103,E3S1,EC
+575,R131318,Digital Communications,EC3102,E3S1,EC
+576,R131333,Digital Communications,EC3102,E3S1,EC
+577,R131333,Linear Control Systems,EC3101,E3S1,EC
+578,R131379,Linear Control Systems,EC3101,E3S1,EC
+579,R131533,Linear Control Systems,EC3101,E3S1,EC
+580,R131648,VLSI,EC3103,E3S1,EC
+581,R131792,Digital Communications,EC3102,E3S1,EC
+582,R131792,Linear Control Systems,EC3101,E3S1,EC
+583,R131806,Business Organization and Management,BM3103,E3S1,EC
+584,R131806,Digital Communications,EC3102,E3S1,EC
+585,R131806,Linear Control Systems,EC3101,E3S1,EC
+586,R131813,VLSI,EC3103,E3S1,EC
+587,R131838,Digital Communications Lab,EC3702,E3S1,EC
+588,R131838,VLSI Lab,EC3703,E3S1,EC
+589,R131843,Business Organization and Management,BM3103,E3S1,EC
+590,R131843,Digital Communications,EC3102,E3S1,EC
+591,R131843,Linear Control Systems,EC3101,E3S1,EC
+592,R131843,VLSI,EC3103,E3S1,EC
+593,R131849,Digital Communications,EC3102,E3S1,EC
+594,R131849,Linear Control Systems,EC3101,E3S1,EC
+595,R131849,VLSI,EC3103,E3S1,EC
+596,R131859,Business Organization and Management,BM3103,E3S1,EC
+597,R131923,Digital Communications,EC3102,E3S1,EC
+598,R131923,Digital Communications Lab,EC3702,E3S1,EC
+599,R131923,VLSI,EC3103,E3S1,EC
+600,R131934,Digital Communications,EC3102,E3S1,EC
+601,R131934,Linear Control Systems,EC3101,E3S1,EC
+602,R131934,VLSI,EC3103,E3S1,EC
+603,R131941,Digital Communications,EC3102,E3S1,EC
+604,R131941,Digital Communications Lab,EC3702,E3S1,EC
+605,R131941,Linear Control Systems,EC3101,E3S1,EC
+606,R131979,VLSI,EC3103,E3S1,EC
+607,R131634,Programming and Datastructures,CS1201,E1S1,ME
+608,R131634,Engineering Mathematics-I,MA1101,E1S1,ME
+609,R131685,Programming and Datastructures,CS1201,E1S1,ME
+610,R131946,Programming and Datastructures,CS1201,E1S1,ME
+611,R131946,Programming and Datastructures Lab,CS1701,E1S1,ME
+612,R131946,Workshop ,ME1102,E1S1,ME
+613,R131946,Engineering Drawing and Computer Drafting,CE1101,E1S1,ME
+614,R131946,Engineering Mechanics,ME1101,E1S1,ME
+615,R131946,Engineering Mathematics-I,MA1101,E1S1,ME
+616,R131974,Programming and Datastructures,CS1201,E1S1,ME
+617,R131974,Programming and Datastructures Lab,CS1701,E1S1,ME
+618,R131974,Workshop ,ME1102,E1S1,ME
+619,R131974,Engineering Drawing and Computer Drafting,CE1101,E1S1,ME
+620,R131974,Engineering Mechanics,ME1101,E1S1,ME
+621,R131974,Engineering Mathematics-I,MA1101,E1S1,ME
+622,R121532,Fluid Mechanics,ME2202,E2S1,ME
+623,R131037,Basic Electronics,EC2101,E2S1,ME
+624,R131093,Fluid Mechanics,ME2202,E2S1,ME
+625,R131196,Basic Electronics,EC2101,E2S1,ME
+626,R131276,Basic Electronics,EC2101,E2S1,ME
+627,R131276,Basic Electronics Lab,EC2701,E2S1,ME
+628,R131276,Fluid Mechanics,ME2202,E2S1,ME
+629,R131494,Basic Electronics,EC2101,E2S1,ME
+630,R131495,Basic Electronics,EC2101,E2S1,ME
+631,R131495,Fluid Mechanics,ME2202,E2S1,ME
+632,R131539,Fluid Mechanics,ME2202,E2S1,ME
+633,R131539,Kinematics of Machines Lab,ME2702,E2S1,ME
+634,R131634,Basic Electronics,EC2101,E2S1,ME
+635,R131634,Basic Electronics Lab,EC2701,E2S1,ME
+636,R131634,Fluid Mechanics,ME2202,E2S1,ME
+637,R131634,Fluid Mechanics Lab,ME2802,E2S1,ME
+638,R131634,Kinematics of Machines ,ME2101,E2S1,ME
+639,R131634,Kinematics of Machines Lab,ME2702,E2S1,ME
+640,R131634,Machine Drawing,ME2801,E2S1,ME
+641,R131634,Manufacturing Processes,ME3101,E2S1,ME
+642,R131685,Basic Electronics,EC2101,E2S1,ME
+643,R131685,Basic Electronics Lab,EC2701,E2S1,ME
+644,R131685,Fluid Mechanics,ME2202,E2S1,ME
+645,R131685,Machine Drawing,ME2801,E2S1,ME
+646,R131685,Manufacturing Processes,ME3101,E2S1,ME
+647,R131717,Basic Electronics,EC2101,E2S1,ME
+648,R131717,Fluid Mechanics,ME2202,E2S1,ME
+649,R131827,Kinematics of Machines Lab,ME2702,E2S1,ME
+650,R131946,Basic Electronics,EC2101,E2S1,ME
+651,R131946,Basic Electronics Lab,EC2701,E2S1,ME
+652,R131946,Fluid Mechanics,ME2202,E2S1,ME
+653,R131946,Fluid Mechanics Lab,ME2802,E2S1,ME
+654,R131946,Kinematics of Machines ,ME2101,E2S1,ME
+655,R131946,Kinematics of Machines Lab,ME2702,E2S1,ME
+656,R131946,Machine Drawing,ME2801,E2S1,ME
+657,R131946,Manufacturing Processes,ME3101,E2S1,ME
+658,R131994,Basic Electronics,EC2101,E2S1,ME
+659,R131994,Fluid Mechanics,ME2202,E2S1,ME
+660,R131196,Advanced Manufacturing Processes,ME4605,E3S1,ME
+661,R131196,Meterolgy and Mechanical Measurements,ME3102,E3S1,ME
+662,R131196,Mini Project - I,ME3700,E3S1,ME
+663,R131276,Advanced Manufacturing Processes,ME4605,E3S1,ME
+664,R131276,Thermal Engineering - II,ME4501,E3S1,ME
+665,R131495,Advanced Manufacturing Processes,ME4605,E3S1,ME
+666,R131538,Thermal Engineering - II,ME4501,E3S1,ME
+667,R131634,Advanced Manufacturing Processes,ME4605,E3S1,ME
+668,R131634,Meterolgy and Mechanical Measurements,ME3102,E3S1,ME
+669,R131634,Meterolgy and Mechanical Measurements Lab,ME3103,E3S1,ME
+670,R131634,Mini Project - I,ME3700,E3S1,ME
+671,R131634,Operations Research,ME4615,E3S1,ME
+672,R131634,Thermal Engineering - II,ME4501,E3S1,ME
+673,R131827,Advanced Manufacturing Processes,ME4605,E3S1,ME
+674,R131994,Mini Project - I,ME3700,E3S1,ME
+675,R131122,Engineering Chemistry,CY1201,E1S1,MM
+676,R131122,Engineering Chemistry Lab,CY1801,E1S1,MM
+677,R131122,Engineering Mechanics,ME1101,E1S1,MM
+678,R131122,Workshop,ME1102,E1S1,MM
+679,R131122,Fourier Analysis & Partial Differential Equations,MA2006,E1S1,MM
+680,R131122,Engineering Physics,PH1101,E1S1,MM
+681,R131122,Engineering Physics Lab,PH1701,E1S1,MM
+682,R131025,Probability and Statistics,MA1203,E2S1,MM

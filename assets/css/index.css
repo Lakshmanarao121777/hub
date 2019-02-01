@@ -1,0 +1,351 @@
+.container {
+    width: 100%;
+    float: left;
+    overflow: auto;
+    position: relative;
+    display: table;
+    background: white;
+}
+.col-2-5 {
+    width: 20%;
+    float: left;
+}
+
+.notice,
+.login,
+.chipset {
+    height: 100%;
+}
+
+.notice_boxes {
+    overflow-y: auto;
+    //min-height: 355px;
+}
+
+.login {
+    width: 30%;
+    display: table-cell;
+    vertical-align: top;
+    padding-top: 100px;
+}
+
+.bg {
+    background: white;
+}
+
+.chip {
+    font-size: 12px;
+    margin: 0;
+}
+
+.chip_name {
+    font-weight: 700;
+    padding: 5px 0 0 1px;
+    width: 100%;
+}
+
+.chip_designation {
+    font-weight: 200;
+    font-size: 11px;
+    color: rgba(0, 0, 0, .5);
+    padding: 0 0 0 1px;
+}
+
+.view_more {
+    margin-top: -5px;
+    padding-right: 10px;
+}
+
+.view_more .fa {
+    font-size: 13px;
+    font-weight: 200px;
+}
+
+.thumb {
+    max-width: 60px;
+    height: 60px;
+    padding: 0px;
+    border-radius: 50%;
+    float: left;
+}
+
+.thumb img {
+    width: 60px;
+    height: 60px;
+    padding: 2px;
+    border-radius: 50%;
+}
+
+.bb {
+    border-bottom: 1px solid rgba(150, 150, 150, 0.2);
+    padding: 10px;
+    margin: 2px 0%;
+}
+
+.admin-cell {
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    background: #004266;
+    color: white;
+    float: left;
+}
+
+.admin-cell a {
+    color: white;
+    text-decoration: underline;
+}
+
+.m10 {
+    margin: 2% .5% 2% .5%;
+}
+
+.noticeheading {
+    width: 100%;
+    padding: 5px;
+    text-align: left;
+    //background: teal;
+    color: white;
+    color: gray;
+    font-weight: 700;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+}
+
+.tab {
+    position: relative;
+}
+
+ul.tab {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    width: 75%;
+    position: relative;
+}
+
+ul.tab li {
+    float: left;
+    width: 50%;
+    height: 45px;
+}
+
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    min-width: 100%;
+}
+
+ul.tab li a:hover {
+    background-color: #ddd;
+    border-radius: 10px 10px 0 0;
+}
+
+/*ul.tab li a:focus {
+    background-color: teal;
+    border-radius: 10px 10px 0 0;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}*/
+
+.active_tab {
+    background-color: teal;
+    border-radius: 10px 10px 0 0;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+    position: relative;
+    border: 1px solid rgba(150, 150, 150, 0.2);
+    width: 90%;
+    margin: 0 auto;
+}
+
+input {
+    width: 100%;
+    display: block;
+    border: none;
+    padding: 12px 14px;
+    border-bottom: solid 1px #1abc9c;
+    -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 96%, #1abc9c 4%);
+    float: left;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 96%, #1abc9c 4%);
+    background-position: -200px 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #0e6252;
+}
+
+.btn {
+    width: 30%;float: left;
+    margin: 5% ;
+    font-weight: 600;
+}
+input:focus,
+input:valid {
+    box-shadow: none;
+    outline: none;
+    background-position: 0 0;
+}
+
+input::-webkit-input-placeholder {
+    font-family: 'roboto', sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+input:focus::-webkit-input-placeholder,
+input:valid::-webkit-input-placeholder {
+    color: black;
+    font-size: 11px;
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+    visibility: visible !important;
+}
+
+.pdt10 {
+    padding-top: 5px;
+}
+
+.login_head {
+    font-size: 20px;
+    text-align: left;
+    width: 100%;
+    padding: 10px;
+    pointer-events: none;
+}
+
+.notices {
+    width: 95%;
+    padding: 10px 20px;
+    border-bottom: 1px solid rgba(150, 150, 150, 0.2);
+    margin: 0 ;
+    //height: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .col-2-5,
+    .login,
+    .chip,
+    .col-4,
+    .col-5,
+    .col-3 {
+        min-width: 100%;
+    }
+    .chip_name {
+        padding: 0px;
+        font-size: 12px;
+    }
+    .thumb {
+        max-width: 52px;
+    }
+    .view_more {
+        padding-right: 5px;
+        margin: -10px 0;
+    }
+    .m10 {
+        margin: 10px 0;
+    }
+    ul.tab {
+        width: 100%;
+        margin: 0%;
+    }
+    ul.tab li {
+        float: left;
+        width:35%;
+        font-size: 14px;
+    }
+    .login img {
+        width: 60px;
+        height: 80px;
+    }
+    .login .viewmore {
+        font-size: 10px;
+    }
+}
+
+#calendar-outer {
+    width: 90%;
+    margin:0 auto;
+}
+
+#calendar-outer ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+#calendar-outer ul li {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.prev {
+	display: inline-block;
+	float: left;
+	cursor: pointer
+}
+
+.next {
+	display: inline-block;
+	float: right;
+	cursor: pointer
+}
+/*
+:focus {
+	outline: none;
+	background: #ff8e8e;
+}
+*/
+#calendar-html-output div.calendar-nav {
+	background-color: #aa6e5e;
+	border-radius: 4px;
+	text-align: center;
+	padding: 10px;
+	color: #FFF;
+	box-sizing: border-box;
+	font-weight: bold;
+}
+#calendar-html-output #calendar-outer{
+    width:100%;text-align: center;
+}
+#calendar-html-output #calendar-outer .week-name-title li {
+    display: inline-block;
+	color: #90918b;
+	font-size: 0.95em;
+    font-weight: 600;
+}
+#calendar-html-output  .week-name-title li{
+    width:13%;padding:10px 5px;
+	min-height: 20px;line-height: 20px;
+}
+#calendar-html-output .week-day-cell li {
+	display: inline-block;
+	min-width: 13%;
+	min-height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: white;
+	color: black;
+	border: 1px solid #eee;
+	border-radius: 1px;
+}

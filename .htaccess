@@ -1,0 +1,38 @@
+RewriteEngine On
+
+Options All -Indexes
+
+# start removing .php from url
+
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# end removing .php from url
+
+
+ErrorDocument 404 http://hub.rguktrkv.org/php/errors/404
+ErrorDocument 500 http://hub.rguktrkv.org/php/errors/500
+ErrorDocument 403 http://hub.rguktrkv.org/php/errors/403
+ErrorDocument 508 http://hub.rguktrkv.org/php/errors/508
+
+
+
+#
+#RewriteCond %{HTTP_USER_AGENT} iPad|iPhone
+#RewriteCond %{REQUEST_URI} !^/Folder Name/
+#RewriteRule .* /Folder Name/ [R]
+
+#
+#RewriteCond %{HTTP_USER_AGENT} iPad|iPhone
+#RewriteRule .* http://m.hub.rguktrkv.org/ [R]
+
+
+#RewriteCond %{HTTP_USER_AGENT} Android|Blackberry|iPad|iPhone|ipod|iemobile|opera|mobile|palmos|webos|googlebot-mobile
+
+
+
+
+
+
+

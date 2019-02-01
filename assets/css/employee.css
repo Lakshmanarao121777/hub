@@ -1,0 +1,272 @@
+.container {
+    left: 15%;
+    position: fixed;
+    height: -moz-calc(100% - 150px - 52px);
+    /* Firefox */
+    height: -webkit-calc(100% - 140px - 52px);
+    /* Chrome, Safari */
+    height: calc(100% - 140px - 52px);
+    /* IE9+ and future browsers */
+    top: 140px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 85%;
+    z-index: 1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg {
+    background: white;
+}
+
+.m10 {
+    margin: .5%;
+}
+
+.border {
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.pd10 {
+    padding: .5%;
+}
+
+.appbox {
+    height: 120px;
+    width: 23%;
+    float: left;
+}
+
+
+/*=============================================*/
+
+
+.dash_box {
+    width: 12.5%;
+    color: teal;
+    text-align: center;
+    margin: 15px 0 0 1.5%;
+    height: 106px;
+    background: white;
+    border: 1px solid rgba(0, 0, 0, .7);
+    float: left;
+    border-radius: 5px;
+}
+
+.dash_box:hover {
+    box-shadow: 0 0 10px black
+}
+
+.dash_box a {
+    font-size: 14px;
+    color: black;
+    padding: 0px;
+}
+
+.dash_box a:hover {
+    text-decoration: none;
+}
+
+.dash_box .icon {
+    color: teal;
+    height: 60px;
+    font-size-adjust: 1;
+    margin: 0;
+    width: 100%;
+    padding: 10px;
+}
+
+.dash_box .sm-icon {
+    font-size: 14px;
+    vertical-align: baseline;
+    text-align: right;
+}
+
+.dash_inner_half {
+    width: 50%;
+    height: 45px;
+    float: left;
+    position: relative;
+    border: 1px solid gray;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 2.2
+}
+
+.link_text {
+    width: 100%;
+    font-size: 13px;
+    background: teal;
+    color: white;
+    position: relative;
+    height: 40px;
+    border-radius: 0 0 4px 4px;
+    line-height: 3;
+}
+
+.dash_box .link_text:hover+.dash_box .sm-icon {
+    font-size: 14px;
+    padding: 10px;
+}
+
+.dash_inner_half {
+    width: 50%;
+    height: 32px;
+    float: left;
+    position: relative;
+    border: 1px solid gray;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 2.2
+}
+
+
+/*=============================================*/
+
+
+/*           Profile
+/*=============================================*/
+
+
+/*security tab*/
+
+.br {
+    border-right: 1px solid gray;
+}
+
+form {
+    width: 50%;
+    float: left;
+    margin: 0;
+}
+
+fieldset {
+    padding: 10px;
+}
+
+legend {
+    max-width: 50%;
+    padding: 5px 10px;
+    background: rgba(50, 50, 200, 0.2);
+    margin-left: 18px;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.inp_name {
+    width: 48%;
+    float: left;
+}
+
+.inp {
+    width: 100%;
+    float: left;
+}
+
+.inp .inp_name {
+    width: 40%;
+    padding: 5px 10px;
+    float: left;
+    text-align: right;
+    font-size: 14px;
+    height: 30px;
+}
+
+.inp .inp_value {
+    width: 50%;
+    float: left;
+}
+
+.inp .inp_value {
+    padding: 5px 10px;
+    float: left;
+    text-align: left;
+    font-size: 14px;
+    height: 30px;
+}
+
+.inp .inp_value input {
+    width: 100%;
+    padding: 2px;
+    font-size: 14px;
+}
+.att_box{width:270px;height:200px;text-align: center; margin: 2% 0 0 1%;background: white;border: 1px solid rgba(0, 0, 0, .7);float: left;border-radius:5px;}
+.att_heading{font-size:20px;text-align:center;padding:5px 0 5px 0;font-weight:900;color:white;width:100%;background:teal;letter-spacing:1.2px;}
+.att_time{font-size:16px;text-align:center;padding:2px 0 2px 0 ;font-weight:900;color:blue;}
+.att_timeset{font-size:14px;text-align:center;padding:5px 0 0 0 ;font-weight:600;color:black;}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (max-width: 768px) {
+    .container {
+    position: fixed;top: 110px;left:0;overflow-y: auto;overflow-x: hidden;width: 100%;
+    z-index: 1;padding-top: 20px;padding-bottom: 20px;
+    height: -moz-calc(100% - 120px - 53px);
+    height: -webkit-calc(100% - 110px - 53px);
+    height: calc(100% - 110px - 53px);
+    
+    }
+    .hidden-sm {
+        display: none;
+    }
+    .att_box{width:96%;height:200px;text-align: center; margin: 2% 0 0 1%;background: white;border: 1px solid rgba(0, 0, 0, .7);float: left;border-radius:5px;}
+    .att_heading{font-size:20px;text-align:center;padding:5px 0 5px 0;font-weight:900;color:white;width:100%;background:teal;letter-spacing:1.2px;}
+    .att_time{font-size:16px;text-align:center;padding:2px 0 2px 0 ;font-weight:900;color:blue;}
+    .att_timeset{font-size:14px;text-align:center;padding:5px 0 0 0 ;font-weight:600;color:black;}
+
+    .dash_box {
+        width: 48%;
+        color: teal;
+        text-align: center;
+        margin: 1.5% 0 0 1.5%;
+        height: 100px;
+        background: white;
+        border: 1px solid rgba(0, 0, 0, .7);
+        float: left;
+    }
+    .dash_box a {
+        font-size: 14px;
+        color: black;
+    }
+    .dash_box .icon {
+        font-size: 50px;
+        color: teal;
+        height: 68px;
+        font-size-adjust: 0.5;
+        margin: 0;
+        width: 100%;
+        padding: 3px;
+    }
+    .dash_inner_half {
+        width: 50%;
+        height: 34px;
+        float: left;
+        position: relative;
+        border: 1px solid gray;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.5
+    }
+    .dash_box .sm-icon {
+        font-size: 14px;
+        vertical-align: baseline;
+        text-align: right;
+    }
+    .link_text {
+        width: 100%;
+        font-size: 13px;
+        background: teal;
+        color: white;
+        position: relative;
+        height: 30px;
+        line-height: 2.5;
+    }
+    .appbox {
+        width: 100%;
+        margin: 2px 0;
+    }
+}
+
+
